@@ -134,6 +134,7 @@ h2, h3, h4, h5, h6 {
 
    .viewport {
     background-position: 60% 50%;
+    background-image: url(../images/bg-mobile.jpg);
    }
 
    h2 {
@@ -147,6 +148,7 @@ h2, h3, h4, h5, h6 {
 
   .viewport {
     background-position: 60% 50%;
+    background-image: url(../images/bg-tablet.jpg);
    }
 
    .main-title {
@@ -164,6 +166,10 @@ h2, h3, h4, h5, h6 {
   .main-title {
     font-size: 5.5em;
   }
+
+  .viewport {
+    background-image: url(../images/bg-desktop.jpg);
+  }
   
 
  }
@@ -172,5 +178,9 @@ h2, h3, h4, h5, h6 {
 
   .menu-item a {
     font-size: 2.5em;
+  }
+
+  .viewport {
+    background-image: url(../images/bg-desktop-4k.jpg);
   }
  }
