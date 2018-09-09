@@ -76,11 +76,6 @@ h2, h3, h4, h5, h6 {
   font-size: 6em;
   color: #fff;
   text-shadow: 1px 1px 2px black;
-  -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
-  -moz-animation: fadein 3s; /* Firefox < 16 */
-   -ms-animation: fadein 3s; /* Internet Explorer */
-    -o-animation: fadein 3s; /* Opera < 12.1 */
-       animation: fadein 3s;
 }
 
 .socials {
