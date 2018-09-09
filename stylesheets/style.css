@@ -150,17 +150,9 @@ h2, h3, h4, h5, h6 {
 
 @media (max-width:991px) and (min-width:576px) {
 
- .main-title {
-   font-size: 4em;
-  }
-
   .viewport {
     background-position: 60% 50%;
    }
-
-   h2 {
-    font-size: 2em;
-  }
   
 }
 
